@@ -667,11 +667,11 @@
 	<key>createdby</key>
 	<string>bikenik</string>
 	<key>description</key>
-	<string></string>
+	<string>creating video bookmarks with Alfred.app in jwplayer on the coursehunters.net</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>coursehunter-bookmarks</string>
+	<string>coursehunters-bookmarks</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -2383,6 +2383,6 @@ GET_ALL_DATA()</string>
 	<key>version</key>
 	<string>1.0.1</string>
 	<key>webaddress</key>
-	<string>https://gitlab.com/bikenik/alfred-coursehunter-bookmarks#readme</string>
+	<string>https://github.com/bikenik/alfred-coursehunters-bookmarks#readme</string>
 </dict>
 </plist>

@@ -18,7 +18,6 @@ const addBookmark = currentDB => {
 			}],
 			id: currentInfo.allData.video_id,
 			owner: currentInfo.allData.author,
-			title: currentInfo.allData.title,
 			playlist: {
 				title: currentInfo.playlist.title
 			}

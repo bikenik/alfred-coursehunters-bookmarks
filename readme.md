@@ -9,7 +9,7 @@
 ## Install
 
 ```
-$ npm install --global alfred-youtube-bookmarks
+$ npm install --global alfred-coursehunters-bookmarks
 ```
 or as [ `coursehunters-bookmarks.alfredworkflow`](https://github.com/bikenik/alfred-coursehunters-bookmarks/releases)
 

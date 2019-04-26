@@ -11,7 +11,7 @@
 ```
 $ npm install --global alfred-youtube-bookmarks
 ```
-or as [ `coursehunters-bookmarks.alfredworkflow`](https://github.com/bikenik/alfred-youtube-bookmarks/releases)
+or as [ `coursehunters-bookmarks.alfredworkflow`](https://github.com/bikenik/alfred-coursehunters-bookmarks/releases)
 
 *Requires [Node.js](https://nodejs.org) 7.6+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 

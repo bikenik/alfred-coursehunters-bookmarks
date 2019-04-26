@@ -1,4 +1,4 @@
-# alfred-coursehunters-bookmarks [![Build Status](https://travis-ci.org/bikenik/alfred-coursehunters-bookmarks.svg?branch=master)](https://travis-ci.org/bikenik/alfred-youtube-bookmarks)
+# alfred-coursehunters-bookmarks [![Build Status](https://travis-ci.org/bikenik/alfred-coursehunters-bookmarks.svg?branch=master)](https://travis-ci.org/bikenik/alfred-coursehunters-bookmarks)
 
 > coursehunters-bookmarks + dashboard [Safari]
 

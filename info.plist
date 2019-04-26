@@ -1105,7 +1105,7 @@ play()
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>youtube-channel</string>
+				<string>reset all bookmarks $ tags</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -1117,25 +1117,6 @@ play()
 			<string>E320ED35-3DC5-41DC-9797-031807C6B62A</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{var:spec}</string>
-				<key>matchcasesensitive</key>
-				<false/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>reset</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>684124A3-9FA0-4BA6-A23E-C96584186100</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1171,29 +1152,19 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttrimmode</key>
-				<integer>0</integer>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>fixedorder</key>
+				<key>inputstring</key>
+				<string>{var:spec}</string>
+				<key>matchcasesensitive</key>
 				<false/>
-				<key>items</key>
-				<string>[{"imagefile":"58935412a79da5154a007e9688a24bc88ed89533.png","title":"Bookmarks","arg":"bookmarks","subtitle":"Show bookmarks"},{"imagefile":"4691613d5629fcba4730226e2575d85b1cfc2e39.png","title":"Reset","arg":"reset","subtitle":"reset all tags and bookmarks"}]</string>
-				<key>keyword</key>
-				<string>ch</string>
-				<key>runningsubtext</key>
-				<string></string>
-				<key>subtext</key>
-				<string></string>
-				<key>title</key>
-				<string>youtube-dashboard</string>
-				<key>withspace</key>
-				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>reset</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.input.listfilter</string>
+			<string>alfred.workflow.utility.filter</string>
 			<key>uid</key>
-			<string>00ED42C9-F10C-422B-8E07-3DF596414733</string>
+			<string>684124A3-9FA0-4BA6-A23E-C96584186100</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1213,6 +1184,35 @@ play()
 			<string>alfred.workflow.utility.filter</string>
 			<key>uid</key>
 			<string>188D441B-6EF7-42BC-B49B-2AE295BEEAE5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"imagefile":"58935412a79da5154a007e9688a24bc88ed89533.png","title":"Bookmarks","arg":"bookmarks","subtitle":"Show bookmarks"},{"imagefile":"4691613d5629fcba4730226e2575d85b1cfc2e39.png","title":"Reset","arg":"reset","subtitle":"reset all tags and bookmarks"}]</string>
+				<key>keyword</key>
+				<string>ch</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>bookmarks-dashboard</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>00ED42C9-F10C-422B-8E07-3DF596414733</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1246,13 +1246,13 @@ play()
 				<key>items</key>
 				<string>[{"imagefile":"3565188457579ac4edcb91edf9db32d8644b98ee.png","title":"All bookmarks","arg":"all-bookmarks","subtitle":"Show all bookmarks"},{"imagefile":"3565188457579ac4edcb91edf9db32d8644b98ee.png","title":"Current Bookmarks","arg":"current-bookmarks","subtitle":"Show current bookmarks"},{"imagefile":"78303f403137dc57c4f5809e177bd5f46b892d0f.png","title":"By Tags","arg":"by-tags","subtitle":"Show bookmarks by Tags"},{"imagefile":"f54766acb7bc462bd0e0bc1a34b9dab62ca0d383.png","title":"By Playlists","arg":"playlists","subtitle":"Show bookmarks by Playlists"}]</string>
 				<key>keyword</key>
-				<string>ytb</string>
+				<string>chb</string>
 				<key>runningsubtext</key>
 				<string></string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>youtube-dashboard</string>
+				<string>bookmarks-dashboard</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -2032,7 +2032,7 @@ ADD BOOKMARKS</string>
 			<key>xpos</key>
 			<integer>1380</integer>
 			<key>ypos</key>
-			<integer>640</integer>
+			<integer>560</integer>
 		</dict>
 		<key>1AEEFB76-CCE0-4F89-9863-EC86B42D106D</key>
 		<dict>
@@ -2247,7 +2247,7 @@ in current lesson</string>
 			<key>xpos</key>
 			<integer>1690</integer>
 			<key>ypos</key>
-			<integer>540</integer>
+			<integer>530</integer>
 		</dict>
 		<key>9E6132BF-DE8E-47F2-8B3B-FA35F1533834</key>
 		<dict>
@@ -2381,7 +2381,7 @@ GET_ALL_DATA()</string>
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>1.0.4</string>
+	<string>1.0.5</string>
 	<key>webaddress</key>
 	<string>https://github.com/bikenik/alfred-coursehunters-bookmarks#readme</string>
 </dict>

@@ -1,6 +1,6 @@
 {
 	"name": "alfred-coursehunters-bookmarks",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "alfred-coursehunters-bookmarks",
 	"main": "index.js",
 	"repository": "https://github.com/bikenik/alfred-coursehunters-bookmarks",

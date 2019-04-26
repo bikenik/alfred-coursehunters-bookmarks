@@ -1,0 +1,55 @@
+{
+	"name": "alfred-coursehunters-bookmarks",
+	"version": "1.0.0",
+	"description": "alfred-coursehunters-bookmarks",
+	"main": "index.js",
+	"repository": "https://github.com/bikenik/alfred-coursehunters-bookmarks",
+	"author": {
+		"name": "bikenik",
+		"email": "bikeniks@gmail.com",
+		"url": "https://bikenik.org"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=7"
+	},
+	"scripts": {
+		"test": "xo && ava",
+		"postinstall": "alfy-init",
+		"preuninstall": "alfy-cleanup"
+	},
+	"files": [
+		"icon.png",
+		"List Filter Images",
+		"index.js",
+		"info.plist",
+		"src"
+	],
+	"keywords": [
+		"alfred",
+		"workflow",
+		"alfy"
+	],
+	"dependencies": {
+		"alfy": "0.8.0",
+		"dotenv": "^7.0.0",
+		"jsonfile": "^5.0.0"
+	},
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"xo": "^0.24.0"
+	},
+	"xo": {
+		"space": false,
+		"semicolon": false,
+		"capitalized-comments": [
+			"error",
+			"always",
+			{
+				"block": {
+					"ignorePattern": "blockignore"
+				}
+			}
+		]
+	}
+}

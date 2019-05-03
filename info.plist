@@ -51,7 +51,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>5994D0FA-4E34-4699-9FC7-B7B1965E6525</string>
+				<string>C3168766-9C1B-46A4-AFB5-B439B2BC4CB3</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -86,6 +86,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>1931E259-C2C6-48BF-8910-40509B876EE6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5271C82C-77E6-4BA2-87AC-C05C4DDBC0BA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>1AEEFB76-CCE0-4F89-9863-EC86B42D106D</key>
 		<array>
 			<dict>
@@ -104,6 +117,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>9682C779-37F3-4B5B-9333-32C0CE0BEC3B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2A9EE2DB-19F9-403D-A9DA-F76F6D888D14</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>613FD40D-4530-4C86-AFED-76F8E6E3678C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -142,7 +168,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>D417FDF1-9C63-4BBD-9C0B-EFC7112D8BE4</string>
+				<string>5AE50FE1-459C-4012-B9C8-C67416D1E0AB</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -239,11 +265,47 @@
 				<false/>
 			</dict>
 		</array>
+		<key>5AE50FE1-459C-4012-B9C8-C67416D1E0AB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EDF07ED3-E394-4B43-BCF4-0EEC81A5576B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B2C1FB63-8774-4B25-96B4-9481996A38DC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>5DE35837-2D03-41DE-B639-E81B566B4F49</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>1C767D24-7D71-4A0F-9AB4-04A4466B65C8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>613FD40D-4530-4C86-AFED-76F8E6E3678C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>781E63D6-D224-4DA8-9EB4-AEDB62C0D257</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -410,7 +472,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>D417FDF1-9C63-4BBD-9C0B-EFC7112D8BE4</string>
+				<string>5AE50FE1-459C-4012-B9C8-C67416D1E0AB</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -455,6 +517,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>AB8986FF-9E35-49F4-8199-0BA9D72AFECB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FF9BE13B-8EF5-44E4-B1C2-6CE496564796</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>AC8180D1-B018-4B75-9F1D-5711FBEE7E0E</key>
 		<array/>
 		<key>AD269783-2FEA-401E-99EF-50F25076B9B6</key>
@@ -462,6 +537,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>E2E71F88-54CC-4B56-82D1-6AC8DAE1CBD5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B2C1FB63-8774-4B25-96B4-9481996A38DC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F70063A6-F0D4-4572-BAE9-AFA16B6D2358</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -531,12 +619,84 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>D803DAC2-2506-4396-82B7-415836E5C368</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C3168766-9C1B-46A4-AFB5-B439B2BC4CB3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E7E0056C-985E-4A9D-9E76-564636DEE08D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>D23579C9-E25D-4A69-B7E8-532489F4485D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CD96B8FF-8AF7-43A4-B465-4229D01054C2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2A9EE2DB-19F9-403D-A9DA-F76F6D888D14</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D23579C9-E25D-4A69-B7E8-532489F4485D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CD96B8FF-8AF7-43A4-B465-4229D01054C2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 		<key>D417FDF1-9C63-4BBD-9C0B-EFC7112D8BE4</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>AD269783-2FEA-401E-99EF-50F25076B9B6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D803DAC2-2506-4396-82B7-415836E5C368</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1931E259-C2C6-48BF-8910-40509B876EE6</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -601,6 +761,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>E7E0056C-985E-4A9D-9E76-564636DEE08D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AB8986FF-9E35-49F4-8199-0BA9D72AFECB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>E9BBD48F-1750-4C11-8AD2-4974071EA62C</key>
 		<array>
 			<dict>
@@ -614,11 +787,37 @@
 				<false/>
 			</dict>
 		</array>
+		<key>EDF07ED3-E394-4B43-BCF4-0EEC81A5576B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D417FDF1-9C63-4BBD-9C0B-EFC7112D8BE4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>F15C5B2F-A1B4-40CD-A642-66E0172A74FE</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>BA08DC36-DF22-4BFA-A87F-51146C673193</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F70063A6-F0D4-4572-BAE9-AFA16B6D2358</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AD269783-2FEA-401E-99EF-50F25076B9B6</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -655,6 +854,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>39C014E3-E838-4C93-9EA7-5D897975E7C5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FF9BE13B-8EF5-44E4-B1C2-6CE496564796</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5994D0FA-4E34-4699-9FC7-B7B1965E6525</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -713,35 +925,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>function run(argv) {
-	function play() {
-		return safari.doJavaScript(`if(jwplayer().getState() === "paused"){jwplayer().play()}`, {in: safari.windows[0].currentTab})
-	}
-var safari = Application("Safari");
-play()
-}</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>7</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>8DFA2419-5B08-4AE4-8E28-3126661B9926</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>lastpathcomponent</key>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
@@ -763,6 +946,43 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>function run(argv) {
+		function play(frontmost_app_name) {
+			if (['Google Chrome', 'Google Chrome Canary', 'Chromium'].indexOf(frontmost_app_name) &gt; -1) {
+				var chrome = Application("Google Chrome");
+				chrome.windows[0].activeTab.execute({javascript:'try{if(player.paused){player.play()}}catch{let player = document.getElementsByClassName("jw-video")[0]; if(player.paused){player.play()}}'})
+			} else if (['Safari', 'Webkit'].indexOf(frontmost_app_name) &gt; -1) {
+				return safari.doJavaScript(`if(jwplayer().getState() === "paused"){jwplayer().play()}`, {in: safari.windows[0].currentTab})
+			} else {
+					throw new Error('You need a supported browser as your frontmost app')
+			}
+		}
+	var safari = Application("Safari");
+	var frontmost_app_name = Application('System Events').applicationProcesses.where({ frontmost: true }).name()[0]
+	play(frontmost_app_name)
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>8DFA2419-5B08-4AE4-8E28-3126661B9926</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>inputstring</key>
 				<string>{var:mode}</string>
 				<key>matchcasesensitive</key>
@@ -778,6 +998,36 @@ play()
 			<string>4835EE16-CB88-490E-ADF4-75DF268A8345</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>function run(argv) {
+safari = Application("Safari");
+	if(safari.documents[0].url().match(/coursehunters/g) !== null){
+	return "coursehunters"
+} else {
+	throw new Error('another site')
+}
+};</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AB8986FF-9E35-49F4-8199-0BA9D72AFECB</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -843,35 +1093,33 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
+				<key>concurrently</key>
 				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>0</integer>
-				<key>hotmod</key>
-				<integer>0</integer>
-				<key>hotstring</key>
-				<string></string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedApps</key>
-				<array>
-					<string>com.apple.Safari</string>
-				</array>
-				<key>relatedAppsMode</key>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>function run(argv) {
+    const frontmost_app_name = Application('System Events').applicationProcesses.where({ frontmost: true }).name()[0]
+    const frontmost_app = Application(frontmost_app_name)
+    if (['Google Chrome', 'Google Chrome Canary', 'Chromium'].indexOf(frontmost_app_name) &gt; -1) {
+        return 'Chrome'
+    } else if (['Safari', 'Webkit'].indexOf(frontmost_app_name) &gt; -1) {
+        return 'Safari'
+    } else {
+        throw new Error('You need a supported browser as your frontmost app')
+    }
+}</string>
+				<key>scriptargtype</key>
 				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>1420880D-9F7D-4EDB-91C5-77268E0EE054</string>
+			<string>C3168766-9C1B-46A4-AFB5-B439B2BC4CB3</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -923,6 +1171,80 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedApps</key>
+				<array>
+					<string>com.google.Chrome</string>
+					<string>com.apple.Safari</string>
+				</array>
+				<key>relatedAppsMode</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>1420880D-9F7D-4EDB-91C5-77268E0EE054</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>Safari</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>E7E0056C-985E-4A9D-9E76-564636DEE08D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>coursehunters</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>FF9BE13B-8EF5-44E4-B1C2-6CE496564796</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>json</key>
 				<string>{
   "alfredworkflow" : {
@@ -939,25 +1261,6 @@ play()
 			<string>alfred.workflow.utility.json</string>
 			<key>uid</key>
 			<string>781E63D6-D224-4DA8-9EB4-AEDB62C0D257</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>externaltriggerid</key>
-				<string>bookmark</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
-			<key>uid</key>
-			<string>220C24AB-B90C-4D9B-92E7-B3F881D9836A</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1009,19 +1312,19 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>inputstring</key>
-				<string>{var:mode}</string>
-				<key>matchcasesensitive</key>
+				<key>externaltriggerid</key>
+				<string>bookmark</string>
+				<key>passinputasargument</key>
 				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>show-tags</string>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
+			<string>alfred.workflow.output.callexternaltrigger</string>
 			<key>uid</key>
-			<string>AA62575A-453F-45DF-860D-0D33440B4B59</string>
+			<string>220C24AB-B90C-4D9B-92E7-B3F881D9836A</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1045,6 +1348,154 @@ play()
 			<string>alfred.workflow.utility.json</string>
 			<key>uid</key>
 			<string>E9BBD48F-1750-4C11-8AD2-4974071EA62C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{var:mode}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>show-tags</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>AA62575A-453F-45DF-860D-0D33440B4B59</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>function run(argv) {
+  function scrapy() {
+      const evalAS = s =&gt; {
+          const
+              a = Application.currentApplication(),
+              sa = (a.includeStandardAdditions = true, a);
+          return sa.doShellScript(
+              ['osascript -l AppleScript &lt;&lt;OSA_END 2&gt;/dev/null']
+              .concat([s])
+              .concat('OSA_END')
+              .join('\n')
+          );
+      };
+    return evalAS(`
+  tell front window of application "Google Chrome"
+    set URL of active tab to "javascript:
+        localStorage.setItem('scrapy', JSON.stringify({
+          currentTime: jwplayer().getPosition(),
+          playlistIndex: jwplayer().getPlaylistIndex(),
+          allData: {
+            video_id: document.URL,
+            title: jwplayer().getConfig().playlistItem.title,
+            author: document.getElementsByClassName('go-to-publisher')[0].href.split('/')[4]
+          },
+          playlist: {
+            title: jwplayer().getConfig().ga.label,
+            sequence: jwplayer().getPlaylistIndex() + ' из видео ' + jwplayer().getPlaylist().length.toString()
+          },
+          currentPlaylist: jwplayer().getConfig().ga.label
+        }, 2, '  '))
+    "
+
+    return {execute active tab javascript "try{if(!player.paused){player.pause()}}catch{let player = document.getElementsByClassName('jw-video')[0]; if(!player.paused){player.pause()}}; localStorage.getItem('scrapy')"} 
+  end tell
+  `)
+  }
+
+  return scrapy()
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>613FD40D-4530-4C86-AFED-76F8E6E3678C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>function run(argv) {
+var chrome = Application("Google Chrome");
+	if(chrome.windows[0].activeTab.url().match(/coursehunters/g) !== null){
+	return "coursehunters"
+} else {
+	throw new Error('another site')
+}
+};</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>CD96B8FF-8AF7-43A4-B465-4229D01054C2</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>coursehunters</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>2A9EE2DB-19F9-403D-A9DA-F76F6D888D14</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>Chrome</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>D23579C9-E25D-4A69-B7E8-532489F4485D</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1121,6 +1572,42 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedApps</key>
+				<array>
+					<string>com.google.Chrome</string>
+					<string>com.apple.Safari</string>
+				</array>
+				<key>relatedAppsMode</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>39B9FBA7-6E50-43BC-A5F3-416FF44C7448</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -1128,12 +1615,36 @@ play()
 				<key>script</key>
 				<string>function run(argv) {
 	argv = JSON.parse(argv[0])
-	function play(seekTo) {
-		return safari.doJavaScript(`console.log(${'Start to play: ', seekTo}); jwplayer().seek(${seekTo}); if(jwplayer().getState() === "paused"){jwplayer().play()}`, {in: safari.windows[0].currentTab})
+
+	function play(seekTo, frontmost_app_name) {
+		if (['Google Chrome', 'Google Chrome Canary', 'Chromium'].indexOf(frontmost_app_name) &gt; -1) {
+      const evalAS = s =&gt; {
+          const
+              a = Application.currentApplication(),
+              sa = (a.includeStandardAdditions = true, a);
+          return sa.doShellScript(
+              ['osascript -l AppleScript &lt;&lt;OSA_END 2&gt;/dev/null']
+              .concat([s])
+              .concat('OSA_END')
+              .join('\n')
+          );
+      };
+    return evalAS(`
+  	tell front window of application "Google Chrome"
+			set URL of active tab to "javascript:
+			jwplayer().seek(${seekTo}); if(jwplayer().getState() === 'paused'){jwplayer().play()}
+			"
+		end tell`)
+    } else if (['Safari', 'Webkit'].indexOf(frontmost_app_name) &gt; -1) {
+				return safari.doJavaScript(`console.log(${'Start to play: ', seekTo}); jwplayer().seek(${seekTo}); if(jwplayer().getState() === "paused"){jwplayer().play()}`, {in: safari.windows[0].currentTab})
+    } else {
+        throw new Error('You need a supported browser as your frontmost app')
+    }
 	}
 	var safari = Application("Safari");
-	var query = argv.startsAt
-	play(query)
+	var query = argv.startsAt;
+	var frontmost_app_name = Application('System Events').applicationProcesses.where({ frontmost: true }).name()[0]
+	play(query, frontmost_app_name)
 }</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
@@ -1197,7 +1708,7 @@ play()
 				<key>fixedorder</key>
 				<false/>
 				<key>items</key>
-				<string>[{"imagefile":"58935412a79da5154a007e9688a24bc88ed89533.png","title":"Bookmarks","arg":"bookmarks","subtitle":"Show bookmarks"},{"imagefile":"4691613d5629fcba4730226e2575d85b1cfc2e39.png","title":"Reset","arg":"reset","subtitle":"reset all tags and bookmarks"}]</string>
+				<string>[{"imagefile":"58935412a79da5154a007e9688a24bc88ed89533.png","title":"Bookmarks","arg":"bookmarks","subtitle":"Show bookmarks"},{"imagefile":"4691613d5629fcba4730226e2575d85b1cfc2e39.png","title":"Reset","arg":"reset","subtitle":"reset all tags and bookmarks"},{"imagefile":"2ef8ffd650357c409bbe6e1a7c1bab6530d54859.png","title":"speed","arg":"control","subtitle":"control speed"}]</string>
 				<key>keyword</key>
 				<string>ch</string>
 				<key>runningsubtext</key>
@@ -1237,94 +1748,21 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttrimmode</key>
-				<integer>0</integer>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>fixedorder</key>
-				<false/>
-				<key>items</key>
-				<string>[{"imagefile":"3565188457579ac4edcb91edf9db32d8644b98ee.png","title":"All bookmarks","arg":"all-bookmarks","subtitle":"Show all bookmarks"},{"imagefile":"3565188457579ac4edcb91edf9db32d8644b98ee.png","title":"Current Bookmarks","arg":"current-bookmarks","subtitle":"Show current bookmarks"},{"imagefile":"78303f403137dc57c4f5809e177bd5f46b892d0f.png","title":"By Tags","arg":"by-tags","subtitle":"Show bookmarks by Tags"},{"imagefile":"f54766acb7bc462bd0e0bc1a34b9dab62ca0d383.png","title":"By Playlists","arg":"playlists","subtitle":"Show bookmarks by Playlists"}]</string>
-				<key>keyword</key>
-				<string>chb</string>
-				<key>runningsubtext</key>
-				<string></string>
-				<key>subtext</key>
-				<string></string>
-				<key>title</key>
-				<string>bookmarks-dashboard</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.listfilter</string>
-			<key>uid</key>
-			<string>1AEEFB76-CCE0-4F89-9863-EC86B42D106D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>alfredfiltersresults</key>
-				<false/>
-				<key>alfredfiltersresultsmatchmode</key>
-				<integer>0</integer>
-				<key>argumenttrimmode</key>
-				<integer>0</integer>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>queuedelaycustom</key>
-				<integer>3</integer>
-				<key>queuedelayimmediatelyinitially</key>
-				<true/>
-				<key>queuedelaymode</key>
-				<integer>0</integer>
-				<key>queuemode</key>
-				<integer>2</integer>
-				<key>runningsubtext</key>
-				<string>Searching...</string>
-				<key>script</key>
-				<string>./node_modules/.bin/run-node ./src/bookmarks/index.js "$1" ''</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string>index.js</string>
-				<key>subtext</key>
-				<string></string>
-				<key>title</key>
-				<string>current bookmarks</string>
-				<key>type</key>
-				<integer>0</integer>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.scriptfilter</string>
-			<key>uid</key>
-			<string>E2E71F88-54CC-4B56-82D1-6AC8DAE1CBD5</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
 				<string>function run(argv) {
-	argv = JSON.parse(argv[0])
-	function play(seekTo, index) {
-		return safari.doJavaScript(`console.log(${'Start to play: ', seekTo}); console.log(${'Playlist Index: ', index}); jwplayer().playlistItem(${index}).seek(${seekTo}); if(jwplayer().getState() === "paused"){jwplayer().play()}`, {in: safari.windows[0].currentTab})
-	}
-	var safari = Application("Safari");
-	var query = argv.startsAt
-	var playlistIndex = argv.playlistIndex
-	play(query, playlistIndex)
+    const frontmost_app_name = Application('System Events').applicationProcesses.where({ frontmost: true }).name()[0]
+    const frontmost_app = Application(frontmost_app_name)
+    if (['Google Chrome', 'Google Chrome Canary', 'Chromium'].indexOf(frontmost_app_name) &gt; -1) {
+        return 'Chrome'
+    } else if (['Safari', 'Webkit'].indexOf(frontmost_app_name) &gt; -1) {
+        return 'Safari'
+    } else {
+        throw new Error('You need a supported browser as your frontmost app')
+    }
 }</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
@@ -1336,7 +1774,7 @@ play()
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>8A25AF16-68D1-4F1E-879E-714A95ED4205</string>
+			<string>5AE50FE1-459C-4012-B9C8-C67416D1E0AB</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -1394,94 +1832,132 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
+				<key>argumenttrimmode</key>
 				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>0</integer>
-				<key>hotmod</key>
-				<integer>0</integer>
-				<key>hotstring</key>
-				<string></string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedApps</key>
-				<array>
-					<string>com.apple.Safari</string>
-				</array>
-				<key>relatedAppsMode</key>
+				<key>argumenttype</key>
 				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"imagefile":"3565188457579ac4edcb91edf9db32d8644b98ee.png","title":"All bookmarks","arg":"all-bookmarks","subtitle":"Show all bookmarks"},{"imagefile":"3565188457579ac4edcb91edf9db32d8644b98ee.png","title":"Current Bookmarks","arg":"current-bookmarks","subtitle":"Show current bookmarks"},{"imagefile":"78303f403137dc57c4f5809e177bd5f46b892d0f.png","title":"By Tags","arg":"by-tags","subtitle":"Show bookmarks by Tags"},{"imagefile":"f54766acb7bc462bd0e0bc1a34b9dab62ca0d383.png","title":"By Playlists","arg":"playlists","subtitle":"Show bookmarks by Playlists"}]</string>
+				<key>keyword</key>
+				<string>chb</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>bookmarks-dashboard</string>
+				<key>withspace</key>
+				<true/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
+			<string>alfred.workflow.input.listfilter</string>
 			<key>uid</key>
-			<string>39B9FBA7-6E50-43BC-A5F3-416FF44C7448</string>
+			<string>1AEEFB76-CCE0-4F89-9863-EC86B42D106D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>function run(argv) {
+	argv = JSON.parse(argv[0])
+
+	function play(seekTo, index, frontmost_app_name) {
+		if (['Google Chrome', 'Google Chrome Canary', 'Chromium'].indexOf(frontmost_app_name) &gt; -1) {
+      const evalAS = s =&gt; {
+          const
+              a = Application.currentApplication(),
+              sa = (a.includeStandardAdditions = true, a);
+          return sa.doShellScript(
+              ['osascript -l AppleScript &lt;&lt;OSA_END 2&gt;/dev/null']
+              .concat([s])
+              .concat('OSA_END')
+              .join('\n')
+          );
+      };
+    return evalAS(`
+  	tell front window of application "Google Chrome"
+			set URL of active tab to "javascript:
+			jwplayer().playlistItem(${index}).seek(${seekTo}); if(jwplayer().getState() === 'paused'){jwplayer().play()}
+		"
+		end tell`)
+    } else if (['Safari', 'Webkit'].indexOf(frontmost_app_name) &gt; -1) {
+				return safari.doJavaScript(`console.log(${'Start to play: ', seekTo}); console.log(${'Playlist Index: ', index}); jwplayer().playlistItem(${index}).seek(${seekTo}); if(jwplayer().getState() === "paused"){jwplayer().play()}`, {in: safari.windows[0].currentTab})
+    } else {
+        throw new Error('You need a supported browser as your frontmost app')
+    }
+	}
+	var safari = Application("Safari");
+	var query = argv.startsAt
+	var playlistIndex = argv.playlistIndex
+	var frontmost_app_name = Application('System Events').applicationProcesses.where({ frontmost: true }).name()[0]
+	play(query, playlistIndex, frontmost_app_name)
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>8A25AF16-68D1-4F1E-879E-714A95ED4205</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>inputstring</key>
-				<string>{var:mode}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>playlist-playSeekTo</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>986BF807-357B-459A-8DDA-342D98CF1251</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{var:spec}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>bookmarks</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>73B239F0-BD04-498C-8EA8-B88696C3F546</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{var:spec}</string>
-				<key>matchcasesensitive</key>
+				<key>alfredfiltersresults</key>
 				<false/>
-				<key>matchmode</key>
+				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
-				<key>matchstring</key>
-				<string>current-bookmarks</string>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string>Searching...</string>
+				<key>script</key>
+				<string>./node_modules/.bin/run-node ./src/bookmarks/index.js "$1" ''</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>index.js</string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>current bookmarks</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
+			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>9E6132BF-DE8E-47F2-8B3B-FA35F1533834</string>
+			<string>E2E71F88-54CC-4B56-82D1-6AC8DAE1CBD5</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1508,6 +1984,25 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>inputstring</key>
+				<string>{var:spec}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>current-bookmarks</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>9E6132BF-DE8E-47F2-8B3B-FA35F1533834</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argument</key>
 				<string></string>
 				<key>variables</key>
@@ -1520,6 +2015,143 @@ play()
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
 			<string>67E1A4F4-A6C9-4B62-8837-4D1CA6F45A03</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{var:mode}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>playlist-playSeekTo</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>986BF807-357B-459A-8DDA-342D98CF1251</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>Safari</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>EDF07ED3-E394-4B43-BCF4-0EEC81A5576B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{var:spec}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>bookmarks</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>73B239F0-BD04-498C-8EA8-B88696C3F546</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>function run(argv) {
+  function scrapy() {
+      const evalAS = s =&gt; {
+          const
+              a = Application.currentApplication(),
+              sa = (a.includeStandardAdditions = true, a);
+          return sa.doShellScript(
+              ['osascript -l AppleScript &lt;&lt;OSA_END 2&gt;/dev/null']
+              .concat([s])
+              .concat('OSA_END')
+              .join('\n')
+          );
+      };
+    return evalAS(`
+  tell front window of application "Google Chrome"
+    set URL of active tab to "javascript:
+        localStorage.setItem('scrapy', JSON.stringify({
+          currentTime: jwplayer().getPosition(),
+          playlistIndex: jwplayer().getPlaylistIndex(),
+          allData: {
+            video_id: document.URL,
+            title: jwplayer().getConfig().playlistItem.title,
+            author: document.getElementsByClassName('go-to-publisher')[0].href.split('/')[4]
+          },
+          playlist: {
+            title: jwplayer().getConfig().ga.label,
+            sequence: jwplayer().getPlaylistIndex() + ' из видео ' + jwplayer().getPlaylist().length.toString()
+          },
+          currentPlaylist: jwplayer().getConfig().ga.label
+        }, 2, '  '))
+    "
+
+    return {execute active tab javascript "localStorage.getItem('scrapy')"} 
+  end tell
+  `)
+  }
+
+  return scrapy()
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>F70063A6-F0D4-4572-BAE9-AFA16B6D2358</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>Chrome</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>B2C1FB63-8774-4B25-96B4-9481996A38DC</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1571,6 +2203,25 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>inputstring</key>
+				<string>{var:spec}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>all-bookmarks</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>F75638D8-BFBD-4277-84DD-974CFFE968FB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>json</key>
 				<string>{
   "alfredworkflow" : {
@@ -1594,18 +2245,18 @@ play()
 			<key>config</key>
 			<dict>
 				<key>inputstring</key>
-				<string>{var:spec}</string>
+				<string>{var:mode}</string>
 				<key>matchcasesensitive</key>
 				<true/>
 				<key>matchmode</key>
 				<integer>0</integer>
 				<key>matchstring</key>
-				<string>all-bookmarks</string>
+				<string>playByNewTab</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.filter</string>
 			<key>uid</key>
-			<string>F75638D8-BFBD-4277-84DD-974CFFE968FB</string>
+			<string>1613BFE1-2FFE-493A-923E-69D7D45B56A9</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1620,19 +2271,21 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>inputstring</key>
-				<string>{var:mode}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>playByNewTab</string>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>Database was updated</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
+			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
-			<string>1613BFE1-2FFE-493A-923E-69D7D45B56A9</string>
+			<string>CBC474C3-EA38-477B-B993-5667A843A8C6</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1752,27 +2405,6 @@ play()
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string></string>
-				<key>title</key>
-				<string>Database was updated</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>CBC474C3-EA38-477B-B993-5667A843A8C6</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>inputstring</key>
 				<string>{var:spec}</string>
 				<key>matchcasesensitive</key>
@@ -1844,51 +2476,6 @@ play()
 				<key>queuedelaymode</key>
 				<integer>0</integer>
 				<key>queuemode</key>
-				<integer>2</integer>
-				<key>runningsubtext</key>
-				<string>Searching...</string>
-				<key>script</key>
-				<string>./node_modules/.bin/run-node ./src/bookmarks/index.js "$1" "playlist"</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string>index.js</string>
-				<key>subtext</key>
-				<string></string>
-				<key>title</key>
-				<string>by playlists</string>
-				<key>type</key>
-				<integer>0</integer>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.scriptfilter</string>
-			<key>uid</key>
-			<string>6E8A90F5-CCD3-4D62-ADD9-6A4534688F2C</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>alfredfiltersresults</key>
-				<false/>
-				<key>alfredfiltersresultsmatchmode</key>
-				<integer>0</integer>
-				<key>argumenttrimmode</key>
-				<integer>0</integer>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>queuedelaycustom</key>
-				<integer>3</integer>
-				<key>queuedelayimmediatelyinitially</key>
-				<true/>
-				<key>queuedelaymode</key>
-				<integer>0</integer>
-				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string></string>
@@ -1932,6 +2519,51 @@ play()
 			<string>AC8180D1-B018-4B75-9F1D-5711FBEE7E0E</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string>Searching...</string>
+				<key>script</key>
+				<string>./node_modules/.bin/run-node ./src/bookmarks/index.js "$1" "playlist"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>index.js</string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>by playlists</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>6E8A90F5-CCD3-4D62-ADD9-6A4534688F2C</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>type</key>
@@ -1982,6 +2614,104 @@ play()
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>function run(argv) {
+	function speed(num, frontmost_app_name) {
+		if (['Google Chrome', 'Google Chrome Canary', 'Chromium'].indexOf(frontmost_app_name) &gt; -1) {
+      const evalAS = s =&gt; {
+          const
+              a = Application.currentApplication(),
+              sa = (a.includeStandardAdditions = true, a);
+          return sa.doShellScript(
+              ['osascript -l AppleScript &lt;&lt;OSA_END 2&gt;/dev/null']
+              .concat([s])
+              .concat('OSA_END')
+              .join('\n')
+          );
+      };
+    return evalAS(`
+  	tell front window of application "Google Chrome"
+			set URL of active tab to "javascript:
+			do {jwplayer().setPlaybackRate(${num})} while(jwplayer().getItem &lt; jwplayer().getConfig().playlist.length)
+		"
+		end tell`)
+    } else if (['Safari', 'Webkit'].indexOf(frontmost_app_name) &gt; -1) {
+				return safari.doJavaScript(`do {jwplayer().setPlaybackRate(${num})} while(jwplayer().getItem &lt; jwplayer().getConfig().playlist.length)`, {in: safari.windows[0].currentTab})
+    } else {
+        throw new Error('You need a supported browser as your frontmost app')
+    }
+	}
+var safari = Application("Safari");
+var frontmost_app_name = Application('System Events').applicationProcesses.where({ frontmost: true }).name()[0]
+speed(argv[0], frontmost_app_name)
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5271C82C-77E6-4BA2-87AC-C05C4DDBC0BA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"imagefile":"2ef8ffd650357c409bbe6e1a7c1bab6530d54859.png","title":"0.85","arg":"0.85","subtitle":"speed"},{"imagefile":"2ef8ffd650357c409bbe6e1a7c1bab6530d54859.png","title":"0.9","arg":"0.9","subtitle":"speed"},{"imagefile":"2ef8ffd650357c409bbe6e1a7c1bab6530d54859.png","title":"1.2","arg":"1.2","subtitle":"speed"},{"imagefile":"2ef8ffd650357c409bbe6e1a7c1bab6530d54859.png","title":"1.25","arg":"1.25","subtitle":"speed"},{"imagefile":"2ef8ffd650357c409bbe6e1a7c1bab6530d54859.png","title":"1.3","arg":"1.3","subtitle":"speed"}]</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>bookmarks-dashboard</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>1931E259-C2C6-48BF-8910-40509B876EE6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{var:spec}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>control</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>D803DAC2-2506-4396-82B7-415836E5C368</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -1990,25 +2720,25 @@ play()
 		<key>00241614-9A0D-473E-9C8F-6D2D56C29CED</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1060</integer>
+			<integer>2160</integer>
 			<key>ypos</key>
-			<integer>1140</integer>
+			<integer>1440</integer>
 		</dict>
 		<key>00ED42C9-F10C-422B-8E07-3DF596414733</key>
 		<dict>
 			<key>note</key>
 			<string>Action selection</string>
 			<key>xpos</key>
-			<integer>10</integer>
+			<integer>20</integer>
 			<key>ypos</key>
 			<integer>640</integer>
 		</dict>
 		<key>08F6689C-5DF9-4CFA-9C8B-DAC4DA00A437</key>
 		<dict>
 			<key>xpos</key>
-			<integer>810</integer>
+			<integer>1490</integer>
 			<key>ypos</key>
-			<integer>880</integer>
+			<integer>1180</integer>
 		</dict>
 		<key>1420880D-9F7D-4EDB-91C5-77268E0EE054</key>
 		<dict>
@@ -2023,23 +2753,32 @@ ADD BOOKMARKS</string>
 		<key>1613BFE1-2FFE-493A-923E-69D7D45B56A9</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1330</integer>
+			<integer>2430</integer>
 			<key>ypos</key>
-			<integer>880</integer>
+			<integer>1180</integer>
 		</dict>
 		<key>188D441B-6EF7-42BC-B49B-2AE295BEEAE5</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1380</integer>
+			<integer>2480</integer>
 			<key>ypos</key>
 			<integer>560</integer>
+		</dict>
+		<key>1931E259-C2C6-48BF-8910-40509B876EE6</key>
+		<dict>
+			<key>note</key>
+			<string>Action selection</string>
+			<key>xpos</key>
+			<integer>1090</integer>
+			<key>ypos</key>
+			<integer>1550</integer>
 		</dict>
 		<key>1AEEFB76-CCE0-4F89-9863-EC86B42D106D</key>
 		<dict>
 			<key>note</key>
 			<string>Bookmarks Action selection</string>
 			<key>xpos</key>
-			<integer>440</integer>
+			<integer>1090</integer>
 			<key>ypos</key>
 			<integer>690</integer>
 		</dict>
@@ -2049,16 +2788,23 @@ ADD BOOKMARKS</string>
 			<string>...
 SHOW TAGS</string>
 			<key>xpos</key>
-			<integer>910</integer>
+			<integer>2010</integer>
 			<key>ypos</key>
-			<integer>960</integer>
+			<integer>1260</integer>
 		</dict>
 		<key>220C24AB-B90C-4D9B-92E7-B3F881D9836A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>910</integer>
+			<integer>1560</integer>
 			<key>ypos</key>
 			<integer>280</integer>
+		</dict>
+		<key>2A9EE2DB-19F9-403D-A9DA-F76F6D888D14</key>
+		<dict>
+			<key>xpos</key>
+			<integer>670</integer>
+			<key>ypos</key>
+			<integer>460</integer>
 		</dict>
 		<key>2EE7BCB4-E7F6-47B4-B73F-A0DD000888A6</key>
 		<dict>
@@ -2066,7 +2812,7 @@ SHOW TAGS</string>
 			<string>...
 SHOW TAGS</string>
 			<key>xpos</key>
-			<integer>700</integer>
+			<integer>1350</integer>
 			<key>ypos</key>
 			<integer>280</integer>
 		</dict>
@@ -2076,7 +2822,7 @@ SHOW TAGS</string>
 			<string>...
 BOOKMARK-UPDATE</string>
 			<key>xpos</key>
-			<integer>700</integer>
+			<integer>1350</integer>
 			<key>ypos</key>
 			<integer>130</integer>
 		</dict>
@@ -2086,37 +2832,37 @@ BOOKMARK-UPDATE</string>
 			<string>...
 CURRENT BOOKMARKS</string>
 			<key>xpos</key>
-			<integer>760</integer>
+			<integer>1580</integer>
 			<key>ypos</key>
-			<integer>690</integer>
+			<integer>500</integer>
 		</dict>
 		<key>39C014E3-E838-4C93-9EA7-5D897975E7C5</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1450</integer>
+			<integer>2550</integer>
 			<key>ypos</key>
-			<integer>1140</integer>
+			<integer>1440</integer>
 		</dict>
 		<key>3ED22E2F-7B2A-48A9-9FC8-78D1079EF617</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1590</integer>
+			<integer>2690</integer>
 			<key>ypos</key>
-			<integer>880</integer>
+			<integer>1180</integer>
 		</dict>
 		<key>4835EE16-CB88-490E-ADF4-75DF268A8345</key>
 		<dict>
 			<key>xpos</key>
-			<integer>630</integer>
+			<integer>1280</integer>
 			<key>ypos</key>
 			<integer>160</integer>
 		</dict>
 		<key>4CE1BD2C-9EBD-450B-BC75-AFADD3314475</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1590</integer>
+			<integer>2690</integer>
 			<key>ypos</key>
-			<integer>1090</integer>
+			<integer>1390</integer>
 		</dict>
 		<key>5177D6FD-5A12-4560-A655-D8BBADF174F6</key>
 		<dict>
@@ -2124,14 +2870,24 @@ CURRENT BOOKMARKS</string>
 			<string>...
 RESET</string>
 			<key>xpos</key>
-			<integer>700</integer>
+			<integer>1350</integer>
 			<key>ypos</key>
 			<integer>500</integer>
+		</dict>
+		<key>5271C82C-77E6-4BA2-87AC-C05C4DDBC0BA</key>
+		<dict>
+			<key>note</key>
+			<string>...
+PLAY()</string>
+			<key>xpos</key>
+			<integer>1350</integer>
+			<key>ypos</key>
+			<integer>1550</integer>
 		</dict>
 		<key>549C5602-B6F2-4409-89B8-8090610610C8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>170</integer>
+			<integer>910</integer>
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>
@@ -2139,57 +2895,82 @@ RESET</string>
 		<dict>
 			<key>note</key>
 			<string>...
+SAFARI
+...
 GET_TIME()
 PLAY()
 GET_ALL_DATA()
 GET_PLAYLIST_NAME()
 GET_SEQUENCE()</string>
 			<key>xpos</key>
-			<integer>170</integer>
+			<integer>820</integer>
 			<key>ypos</key>
 			<integer>210</integer>
+		</dict>
+		<key>5AE50FE1-459C-4012-B9C8-C67416D1E0AB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1700</integer>
+			<key>ypos</key>
+			<integer>690</integer>
 		</dict>
 		<key>5DE35837-2D03-41DE-B639-E81B566B4F49</key>
 		<dict>
 			<key>xpos</key>
-			<integer>710</integer>
+			<integer>1360</integer>
 			<key>ypos</key>
-			<integer>990</integer>
+			<integer>1290</integer>
+		</dict>
+		<key>613FD40D-4530-4C86-AFED-76F8E6E3678C</key>
+		<dict>
+			<key>note</key>
+			<string>...
+CHROME
+...
+GET_TIME()
+PLAY()
+GET_ALL_DATA()
+GET_PLAYLIST_NAME()
+GET_SEQUENCE()</string>
+			<key>xpos</key>
+			<integer>820</integer>
+			<key>ypos</key>
+			<integer>430</integer>
 		</dict>
 		<key>67E1A4F4-A6C9-4B62-8837-4D1CA6F45A03</key>
 		<dict>
 			<key>note</key>
 			<string>Action selected</string>
 			<key>xpos</key>
-			<integer>600</integer>
+			<integer>1250</integer>
 			<key>ypos</key>
 			<integer>720</integer>
 		</dict>
 		<key>684124A3-9FA0-4BA6-A23E-C96584186100</key>
 		<dict>
 			<key>xpos</key>
-			<integer>360</integer>
+			<integer>1010</integer>
 			<key>ypos</key>
 			<integer>530</integer>
 		</dict>
 		<key>6E8A90F5-CCD3-4D62-ADD9-6A4534688F2C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1140</integer>
+			<integer>2240</integer>
 			<key>ypos</key>
-			<integer>1110</integer>
+			<integer>1410</integer>
 		</dict>
 		<key>73B239F0-BD04-498C-8EA8-B88696C3F546</key>
 		<dict>
 			<key>xpos</key>
-			<integer>360</integer>
+			<integer>1010</integer>
 			<key>ypos</key>
 			<integer>720</integer>
 		</dict>
 		<key>781E63D6-D224-4DA8-9EB4-AEDB62C0D257</key>
 		<dict>
 			<key>xpos</key>
-			<integer>370</integer>
+			<integer>1020</integer>
 			<key>ypos</key>
 			<integer>240</integer>
 		</dict>
@@ -2199,7 +2980,7 @@ GET_SEQUENCE()</string>
 			<string>...
 ADD BOOKMARKS</string>
 			<key>xpos</key>
-			<integer>440</integer>
+			<integer>1090</integer>
 			<key>ypos</key>
 			<integer>210</integer>
 		</dict>
@@ -2210,7 +2991,7 @@ ADD BOOKMARKS</string>
 PLAY SEEK_TO()
 in current playlist</string>
 			<key>xpos</key>
-			<integer>1690</integer>
+			<integer>2790</integer>
 			<key>ypos</key>
 			<integer>690</integer>
 		</dict>
@@ -2220,21 +3001,21 @@ in current playlist</string>
 			<string>...
 PLAY()</string>
 			<key>xpos</key>
-			<integer>1140</integer>
+			<integer>1790</integer>
 			<key>ypos</key>
 			<integer>130</integer>
 		</dict>
 		<key>9682C779-37F3-4B5B-9333-32C0CE0BEC3B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1060</integer>
+			<integer>2160</integer>
 			<key>ypos</key>
-			<integer>990</integer>
+			<integer>1290</integer>
 		</dict>
 		<key>986BF807-357B-459A-8DDA-342D98CF1251</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1380</integer>
+			<integer>2480</integer>
 			<key>ypos</key>
 			<integer>720</integer>
 		</dict>
@@ -2245,49 +3026,63 @@ PLAY()</string>
 PLAY SEEK_TO()
 in current lesson</string>
 			<key>xpos</key>
-			<integer>1690</integer>
+			<integer>2790</integer>
 			<key>ypos</key>
 			<integer>530</integer>
 		</dict>
 		<key>9E6132BF-DE8E-47F2-8B3B-FA35F1533834</key>
 		<dict>
 			<key>xpos</key>
-			<integer>710</integer>
+			<integer>1490</integer>
 			<key>ypos</key>
 			<integer>720</integer>
 		</dict>
 		<key>9EBB4567-7E2F-4FC6-84A8-F2A12528413F</key>
 		<dict>
 			<key>xpos</key>
-			<integer>910</integer>
+			<integer>2010</integer>
 			<key>ypos</key>
-			<integer>850</integer>
+			<integer>1150</integer>
 		</dict>
 		<key>AA62575A-453F-45DF-860D-0D33440B4B59</key>
 		<dict>
 			<key>xpos</key>
-			<integer>630</integer>
+			<integer>1280</integer>
 			<key>ypos</key>
 			<integer>310</integer>
+		</dict>
+		<key>AB8986FF-9E35-49F4-8199-0BA9D72AFECB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>510</integer>
+			<key>ypos</key>
+			<integer>210</integer>
 		</dict>
 		<key>AC8180D1-B018-4B75-9F1D-5711FBEE7E0E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1850</integer>
+			<integer>2950</integer>
 			<key>ypos</key>
-			<integer>1110</integer>
+			<integer>1410</integer>
 		</dict>
 		<key>AD269783-2FEA-401E-99EF-50F25076B9B6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1060</integer>
+			<integer>2170</integer>
 			<key>ypos</key>
 			<integer>720</integer>
+		</dict>
+		<key>B2C1FB63-8774-4B25-96B4-9481996A38DC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1890</integer>
+			<key>ypos</key>
+			<integer>940</integer>
 		</dict>
 		<key>B8464987-27E4-46C7-AE5E-E1B0B1818E1D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>910</integer>
+			<integer>1560</integer>
 			<key>ypos</key>
 			<integer>130</integer>
 		</dict>
@@ -2297,48 +3092,81 @@ in current lesson</string>
 			<string>...
 SHOW PLAYLISTS</string>
 			<key>xpos</key>
-			<integer>910</integer>
+			<integer>2010</integer>
 			<key>ypos</key>
-			<integer>1110</integer>
+			<integer>1410</integer>
 		</dict>
 		<key>BAA2903B-6C6F-45A0-8324-A9FD985181DF</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1690</integer>
+			<integer>2790</integer>
 			<key>ypos</key>
-			<integer>960</integer>
+			<integer>1260</integer>
 		</dict>
 		<key>C2342203-5075-489C-90CE-51790683247E</key>
 		<dict>
 			<key>note</key>
 			<string>Action selected</string>
 			<key>xpos</key>
-			<integer>240</integer>
+			<integer>890</integer>
 			<key>ypos</key>
 			<integer>670</integer>
+		</dict>
+		<key>C3168766-9C1B-46A4-AFB5-B439B2BC4CB3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>190</integer>
+			<key>ypos</key>
+			<integer>210</integer>
 		</dict>
 		<key>CBC474C3-EA38-477B-B993-5667A843A8C6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1850</integer>
+			<integer>2950</integer>
 			<key>ypos</key>
-			<integer>960</integer>
+			<integer>1260</integer>
+		</dict>
+		<key>CD96B8FF-8AF7-43A4-B465-4229D01054C2</key>
+		<dict>
+			<key>xpos</key>
+			<integer>510</integer>
+			<key>ypos</key>
+			<integer>430</integer>
+		</dict>
+		<key>D23579C9-E25D-4A69-B7E8-532489F4485D</key>
+		<dict>
+			<key>note</key>
+			<string>...
+CHROME</string>
+			<key>xpos</key>
+			<integer>370</integer>
+			<key>ypos</key>
+			<integer>460</integer>
 		</dict>
 		<key>D417FDF1-9C63-4BBD-9C0B-EFC7112D8BE4</key>
 		<dict>
 			<key>note</key>
 			<string>...
+SAFARI
+...
 GET_TIME()
 GET_ALL_DATA()</string>
 			<key>xpos</key>
-			<integer>910</integer>
+			<integer>2010</integer>
 			<key>ypos</key>
 			<integer>690</integer>
+		</dict>
+		<key>D803DAC2-2506-4396-82B7-415836E5C368</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1010</integer>
+			<key>ypos</key>
+			<integer>1580</integer>
 		</dict>
 		<key>E2E71F88-54CC-4B56-82D1-6AC8DAE1CBD5</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1140</integer>
+			<integer>2240</integer>
 			<key>ypos</key>
 			<integer>690</integer>
 		</dict>
@@ -2347,41 +3175,78 @@ GET_ALL_DATA()</string>
 			<key>note</key>
 			<string>RESET</string>
 			<key>xpos</key>
-			<integer>440</integer>
+			<integer>1090</integer>
 			<key>ypos</key>
 			<integer>500</integer>
+		</dict>
+		<key>E7E0056C-985E-4A9D-9E76-564636DEE08D</key>
+		<dict>
+			<key>note</key>
+			<string>...
+SAFARI</string>
+			<key>xpos</key>
+			<integer>370</integer>
+			<key>ypos</key>
+			<integer>240</integer>
 		</dict>
 		<key>E9BBD48F-1750-4C11-8AD2-4974071EA62C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>850</integer>
+			<integer>1500</integer>
 			<key>ypos</key>
 			<integer>310</integer>
+		</dict>
+		<key>EDF07ED3-E394-4B43-BCF4-0EEC81A5576B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1890</integer>
+			<key>ypos</key>
+			<integer>720</integer>
 		</dict>
 		<key>F15C5B2F-A1B4-40CD-A642-66E0172A74FE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>710</integer>
+			<integer>1360</integer>
 			<key>ypos</key>
-			<integer>1140</integer>
+			<integer>1440</integer>
+		</dict>
+		<key>F70063A6-F0D4-4572-BAE9-AFA16B6D2358</key>
+		<dict>
+			<key>note</key>
+			<string>...
+CHROME
+...
+GET_TIME()
+GET_ALL_DATA()</string>
+			<key>xpos</key>
+			<integer>2010</integer>
+			<key>ypos</key>
+			<integer>910</integer>
 		</dict>
 		<key>F75638D8-BFBD-4277-84DD-974CFFE968FB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>710</integer>
+			<integer>1360</integer>
 			<key>ypos</key>
-			<integer>880</integer>
+			<integer>1180</integer>
 		</dict>
 		<key>FD9866D9-144E-4DFC-9874-CAEB17087367</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1140</integer>
+			<integer>2240</integer>
 			<key>ypos</key>
-			<integer>960</integer>
+			<integer>1260</integer>
+		</dict>
+		<key>FF9BE13B-8EF5-44E4-B1C2-6CE496564796</key>
+		<dict>
+			<key>xpos</key>
+			<integer>670</integer>
+			<key>ypos</key>
+			<integer>240</integer>
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>1.0.5</string>
+	<string>1.1.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/bikenik/alfred-coursehunters-bookmarks#readme</string>
 </dict>

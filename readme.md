@@ -11,9 +11,10 @@
 ```
 $ npm install --global alfred-coursehunters-bookmarks
 ```
+
 or as [ `coursehunters-bookmarks.alfredworkflow`](https://github.com/bikenik/alfred-coursehunters-bookmarks/releases)
 
-*Requires [Node.js](https://nodejs.org) 7.6+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
+_Requires [Node.js](https://nodejs.org) 7.6+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/)._
 
 ## Usage
 
@@ -21,6 +22,7 @@ In Alfred, type `ch`, <kbd>Enter</kbd>, and your query.<br>
 It will be work with Safari only.
 
 #### Bookmarks
+
 - To create bookmark needs to have opened Safari's window with coursehunetrs.net's video player in active tab.
 - type some shortcut (⌥⌘B - for example) to create bookmark
 - type some shortcut (⌥⌘S - for example) to show and go through the bookmark in the current playing video.
@@ -28,6 +30,12 @@ It will be work with Safari only.
 - hit <kbd>⇧</kbd> To open preview window by the any bookmark.
 
 <a href="https://www.buymeacoffee.com/cLMme6h" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+#### Setting for Chrome
+
+```
+View => Developer => check "Allow Javascript for Apple Evenst"
+```
 
 ## License
 

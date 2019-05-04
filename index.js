@@ -9,9 +9,9 @@ const jsonFile = require('jsonfile')
 
 const settings = require('./src/settings')
 const {tags, addBookmark, playlist} = require('./src/bookmarks/add-bookmark')
-const currentDB = require('./src/input/db.json')
 
-const db = './src/input/db.json'
+const db = `${process.env.alfred_workflow_data}/db.json`
+const currentDB = require(db)
 
 switch (process.argv[3]) {
 	case 'add-bookmarks':

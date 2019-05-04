@@ -2,9 +2,9 @@
 
 'use strict'
 const alfy = require('alfy')
-const jsonfile = require('jsonfile')
+const jsonFile = require('jsonfile')
 
-const db = jsonfile.readFileSync('./src/input/db.json')
+const db = jsonFile.readFileSync(`${process.env.alfred_workflow_data}/db.json`)
 
 const currentInfo = process.env.tdb ? JSON.parse(process.env.tdb) : []
 const indexToAdd = db.map((x, i) => {
